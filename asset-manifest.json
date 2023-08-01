@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-cards/static/css/main.b70a84c0.css",
+    "main.js": "/ra-cards/static/js/main.379004fe.js",
+    "static/js/787.8e06331e.chunk.js": "/ra-cards/static/js/787.8e06331e.chunk.js",
+    "index.html": "/ra-cards/index.html",
+    "main.b70a84c0.css.map": "/ra-cards/static/css/main.b70a84c0.css.map",
+    "main.379004fe.js.map": "/ra-cards/static/js/main.379004fe.js.map",
+    "787.8e06331e.chunk.js.map": "/ra-cards/static/js/787.8e06331e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b70a84c0.css",
+    "static/js/main.379004fe.js"
+  ]
+}
