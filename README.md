@@ -1,3 +1,8 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x8vbmlr37vxa0f01?svg=true)](https://ci.appveyor.com/project/rescue3112/ra-cards)
+
+
+https://rescue3112.github.io/ra-cards/
+
 
 Карточки
 ===
